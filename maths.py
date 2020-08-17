@@ -101,7 +101,7 @@ def subtraction(num1, num2):
 correct_count = int(0)
 total_count = int(0)
 
-print("Would you like 1) multiply, 2) addition 3) subtraction 4) division")
+print("Would you like 1) multiplication, 2) addition 3) subtraction 4) division")
 type = input("> ")
 
 ######## MULTIPLICATION
